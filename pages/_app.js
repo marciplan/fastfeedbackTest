@@ -1,4 +1,4 @@
-import { AuthProvider } from "../utils/auth";
+import { AuthProvider } from "@/utils/auth";
 const App = ({ Component, pageProps }) => {
   return (
     <AuthProvider>
